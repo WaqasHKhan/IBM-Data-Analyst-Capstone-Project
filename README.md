@@ -1,8 +1,13 @@
 📊 IBM Data Analyst Capstone Project
-Analyzing Developer Trends from the 2019 Stack Overflow Survey
+### 📄 Full Capstone Project
+[Click here to open Capstone Project](capstone-story-template.pdf)
+
+Analyzed Developer Trends from the 2019 Stack Overflow Survey.
+
 This project analyzes the 2019 Stack Overflow Developer Survey (~90,000 respondents) to uncover global trends in programming languages, databases, platforms, demographics, and job markets. It demonstrates a complete end‑to‑end data analytics workflow using Python, APIs, web scraping, statistical analysis, and an interactive IBM Cognos Analytics dashboard.
 
 🚀 Key Features
+
 End‑to‑end data pipeline: extraction, cleaning, wrangling, EDA, visualization
 
 Web scraping & API integration using BeautifulSoup and Requests
@@ -14,6 +19,7 @@ Interactive dashboard built in IBM Cognos Analytics
 Actionable insights for tech companies, educators, and workforce planners
 
 📈 Key Insights (Actual Metrics)
+
 Programming Languages
 Most used: HTML/CSS (5,590), Bash/Shell (4,435), JavaScript (3,888)
 
@@ -63,6 +69,7 @@ Python ($114,383)
 C++ ($113,865)
 
 🧰 Tech Stack
+
 Python (Pandas, NumPy, Matplotlib, Seaborn)
 
 Web Scraping (BeautifulSoup, Requests)
@@ -73,13 +80,12 @@ Dashboarding (IBM Cognos Analytics)
 
 📊 Dashboard
 🔗 IBM Cognos Analytics Dashboard  
-### 📄 Full Capstone Project
-[Click to open FULL Capstone Project](capstone-story-template.pdf)
 
 [![Dashboard PDF](https://img.shields.io/badge/Cognos_Dashboard-PDF-blue)](./IBM%20Cognos%20Analytics%20Dashboard1.pdf)
 
 
 🎯 Project Purpose
+
 This project provides actionable insights for stakeholders by identifying:
 
 Current technology usage
