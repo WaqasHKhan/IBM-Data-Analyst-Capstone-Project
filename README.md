@@ -40,7 +40,7 @@ Google Cloud Platform (3,598)
 Demographics
 93.5% male, 6.5% female
 
-Majority aged 18–34
+The majority aged 18–34
 
 Top countries: US (3,127), India (897), UK (821)
 
@@ -74,9 +74,9 @@ Dashboarding (IBM Cognos Analytics)
 📊 Dashboard
 🔗 IBM Cognos Analytics Dashboard  
 ### 📄 Full Capstone Project
-[Click to open the PDF](https://github.com/YourUserName/YourRepoName/blob/main/YourFile.pdf)
+[Click to open the PDF](capstone-story-template.pdf)
 
-[![PDF](https://img.shields.io/badge/Project-PDF-red)](./docs/capstone-project.pdf)
+[![PDF](https://img.shields.io/badge/Graphs-PDF-red)](./docs/capstone-project.pdf)
 
 
 🎯 Project Purpose
