@@ -74,9 +74,9 @@ Dashboarding (IBM Cognos Analytics)
 📊 Dashboard
 🔗 IBM Cognos Analytics Dashboard  
 ### 📄 Full Capstone Project
-[Click to open the PDF](capstone-story-template.pdf)
+[Click to open FULL Capstone Project](capstone-story-template.pdf)
 
-[![Dashboard PDF](https://img.shields.io/badge/Cognos_Dashboard-PDF-blue)](./docs/IBM%20Cognos%20Analytics%20Dashboard1.pdf)
+[![Dashboard PDF](https://img.shields.io/badge/Cognos_Dashboard-PDF-blue)](./IBM%20Cognos%20Analytics%20Dashboard1.pdf)
 
 
 🎯 Project Purpose
