@@ -100,4 +100,5 @@ It highlights the importance of continuous upskilling and helps organizations al
 
 🧑‍💻 Author
 Waqas Hameed  
-GitHub: @WaqasHKhan
+
+![GitHub](https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white)![Dashboard PDF](https://img.shields.io/badge/@WaqasHKhan-white)
