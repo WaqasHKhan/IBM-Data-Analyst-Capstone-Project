@@ -149,7 +149,7 @@ Interactive dashboards with three analytical views:
 
 ![GitHub](https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white)![Dashboard PDF](https://img.shields.io/badge/@WaqasHKhan-white)
 
-Data Analyst | Business Intelligence | Story-Teller | Visualization & Reporting
+Data Analyst | Business Intelligence | Data Storyteller | Visualization & Reporting
 
 
 
