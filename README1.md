@@ -145,9 +145,13 @@ Interactive dashboards with three analytical views:
 
 ---
 ## 👤 Author
+**Waqas Hameed**
 
-**Waqas Hameed**  
-Data Analyst | Business Intelligence | Visualization
+![GitHub](https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white)![Dashboard PDF](https://img.shields.io/badge/@WaqasHKhan-white)
+
+Data Analyst | Business Intelligence | Story-Teller | Visualization & Reporting
+
+
 
 ---
 
